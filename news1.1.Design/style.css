@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700|Poppins:300,200');
+
+/*arreglar el input este*/
+input{
+    display: none;
+}
+
+header:first-of-type{
+    width:100%;
+    background-color: #046DD5;
+    font-family: Poppins;
+    box-sizing: border-box;
+}
+
+header a{
+    text-decoration: none;
+    color:white;
+}
+
+#related{
+    background-color: #2A2F33;
+    width: 100%;
+    text-decoration: none;
+    color:white;
+    font-family: Poppins;
+}
+
+h1 a{
+    text-decoration: none;
+    color:white;
+}
+
+#menu ul>li>a{
+    text-decoration: none;
+    color: black;
+    font-family: Poppins;
+}
+
+#menu ul>li{
+    text-align: center;
+    list-style-type: none;
+    padding: 1em;
+}
+
+#menu ul>li:nth-child(1){
+    border-top: 4px solid #E1493E;
+}
+
+#menu ul>li:nth-child(2){
+    border-top: 4px solid #8ABA56;
+}
+
+#menu ul>li:nth-child(3){
+    border-top: 4px solid #5B4282;
+}
+
+#menu ul>li:nth-child(4){
+    border-top: 4px solid #FF8932;
+}
+
+#menu ul>li:nth-child(5){
+    border-top: 4px solid #19B6E9;
+}
+
+#menu ul>li:nth-child(6){
+    border-top: 4px solid #E84C8B;
+}
